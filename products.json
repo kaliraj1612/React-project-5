@@ -1,0 +1,139 @@
+ [
+      {
+        "id": 1,
+        "name": "Vegetarian Pizza",
+        "amount": "150",
+        "shopname": "Pizza Palace",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/1660974505/display_1500/stock-photo-healthy-vegetarian-sliced-pizza-on-white-wooden-table-top-view-1660974505.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 2,
+        "name": "Margherita Pizza",
+        "amount": "200",
+        "shopname": "Italian Delight",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2350751761/display_1500/stock-photo-flying-wooden-board-with-tasty-pizza-margarita-on-white-background-2350751761.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 3,
+        "name": "Green Salad",
+        "amount": "69",
+        "shopname": "Healthy Bites",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2287828643/display_1500/stock-photo-plate-of-salad-with-fresh-vegetables-isolated-on-white-background-top-view-2287828643.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 4,
+        "name": "Caprese Salad",
+        "amount": "85",
+        "shopname": "Fresh & Tasty",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2369902309/display_1500/stock-photo-plate-of-tasty-salad-caprese-with-tomatoes-mozzarella-balls-and-basil-isolated-on-white-top-view-2369902309.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 5,
+        "name": "Hummus Wrap",
+        "amount": "79",
+        "shopname": "Wrap It Up",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2489724515/display_1500/stock-photo-delicious-and-healthy-chicken-wrap-with-fresh-vegetables-2489724515.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 6,
+        "name": "Grilled Chicken Sandwich",
+        "amount": "130",
+        "shopname": "Sandwich Express",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2285641069/display_1500/stock-photo-fresh-juicy-grilled-chicken-wraps-2285641069.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 7,
+        "name": "Beef Burger",
+        "amount": "99",
+        "shopname": "Burger Barn",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2282033179/display_1500/stock-photo-classic-hamburger-stock-photo-isolated-in-white-2282033179.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 8,
+        "name": "Chicken Tikka Masala",
+        "amount": "139",
+        "shopname": "Spice Junction",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/1153329448/display_1500/stock-photo-tasty-butter-chicken-curry-dish-from-indian-cuisine-1153329448.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 9,
+        "name": "Fish and Chips",
+        "amount": "150",
+        "shopname": "Seafood Delight",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2455258937/display_1500/stock-photo-fried-salmon-steak-french-fries-and-fresh-vegetable-salad-served-on-wooden-table-2455258937.jpg ",
+        "latest"  : "No"
+      },
+      {
+        "id": 10,
+        "name": "Sushi Platter",
+        "amount": "159",
+        "shopname": "Sushi House",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2467111113/display_1500/stock-photo-gourmet-salmon-sushi-rolls-served-on-a-black-plate-with-garnishes-ready-for-a-fine-dining-2467111113.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 11,
+        "name": "Vegetable Stir Fry",
+        "amount": "95",
+        "shopname": "Wok Master",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/480578/display_1500/stock-photo-stir-fry-in-a-wok-480578.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 12,
+        "name": "Pulled Pork Sandwich",
+        "amount": "109",
+        "shopname": "BBQ Grill",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2490484377/display_1500/stock-photo-torta-cubana-a-mexican-sandwich-stuffed-with-a-variety-of-meats-cheese-avocado-jalape-os-and-2490484377.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 13,
+        "name": "Mushroom Risotto",
+        "amount": "125",
+        "shopname": "Risotto Italiano",
+        "foodtype": "vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2449694061/display_1500/stock-photo-risotto-with-mushrooms-in-a-plate-on-a-wooden-cutting-board-dark-grunge-background-italian-2449694061.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 14,
+        "name": "Lamb Kebabs",
+        "amount": "149",
+        "shopname": "Middle Eastern Delights",
+        "foodtype": "non-vegetarian",
+        "picture": "https://www.shutterstock.com/shutterstock/photos/2415488555/display_1500/stock-photo-board-with-delicious-shish-kebabs-isolated-on-white-2415488555.jpg",
+        "latest"  : "No"
+      },
+      {
+        "id": 15,
+        "name": "Cheese Quesadilla",
+        "amount": "89",
+        "shopname": "Mexican Grill",
+        "foodtype": "vegetarian",
+       "picture": "https://www.shutterstock.com/shutterstock/photos/2469345281/display_1500/stock-photo-fried-quesadillas-with-cheddar-cheese-and-hot-pepper-in-a-cast-iron-pan-2469345281.jpg",
+        "latest"  : "No"
+      }
+    ]
+
+  
